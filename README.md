@@ -1,2 +1,4 @@
 # Coursera-Deep-Learning-Special-Specialization
-This repository records the code in the couresra courses. 
+>Course1: Neural Networks and DeepLearning 
+
+>Course2: Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization
